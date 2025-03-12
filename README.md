@@ -60,7 +60,7 @@ By monitoring key performance indicators (KPIs) before and after the optimizatio
 
 ### Core Web Vitals and SEO Benefits
 
-Optimizing Core Web Vitals (FCP, CLS, and INP) brings significant SEO benefits. Search engines like Google use these performance indicators as ranking signals. When these metrics meet Google’s recommended standards, websites tend to rank higher, improving visibility in search results.
+Optimizing Core Web Vitals (FCP, CLS, and INP) brings significant SEO benefits. Search engines like Google use these performance indicators as contributing factors to page experience evaluations. When these metrics meet Google’s recommended standards, websites tend to rank higher, improving visibility in search results.
 
 ### Improved Traffic and Conversion from Organic Search
 
